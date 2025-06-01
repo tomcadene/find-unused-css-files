@@ -12,15 +12,15 @@ Matching is done by filename only so it still works when the <link href="..."> p
 
 ## Features
 
-🗂️ Recursively scans any directory you point it at.
+Recursively scans any directory you point it at.
 
-🔍 Uses a simple regular‑expression to find CSS references in HTML (works for <link>, @import, inline scripts, etc.).
+Uses a simple regular‑expression to find CSS references in HTML (works for <link>, @import, inline scripts, etc.).
 
-🔄 Case‑insensitive filename matching.
+Case‑insensitive filename matching.
 
-💡 Zero third‑party dependencies – standard library only.
+Zero third‑party dependencies – standard library only.
 
-🖨️ Clear, colour‑free console logs (plays nicely with any terminal)
+Clear, colour‑free console logs (plays nicely with any terminal)
 
 ## Requirements
 
